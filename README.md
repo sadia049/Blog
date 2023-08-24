@@ -1,4 +1,7 @@
 ## Laravel Breeze Authentication
+-[Registration:]  Users can sign up for an account using the registration form.
+-[Login:] Registered users can log in to their accounts securely.
+-[Password Reset:]Users can reset their passwords if forgotten.
 
 We have implemented user authentication using the Laravel Breeze package. This provides a simple and customizable way to handle user registration, login, and password reset functionalities.
 
