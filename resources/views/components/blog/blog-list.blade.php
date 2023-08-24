@@ -55,8 +55,8 @@
             //console.log(item);
             let row = `<tr> 
              <td>${item['user']['name']}</td>
-
-             <td><img class="w-15 h-auto" alt="" src="${item['image']}"></td>
+            <td>${(item['image'])!=null?`<img class="w-15 h-auto" alt="" src="${item['image']}">`:"No Image Available"}</td>
+            
              <td>${item['title']}</td>
              <td>${item['excerpt']}</td>
              
