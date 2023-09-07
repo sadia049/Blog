@@ -34,7 +34,7 @@
                 </div>
                 <div class="modal-footer">
                     <button id="modal-close" class="btn btn-sm btn-danger" data-dismiss="modal" aria-label="Close">Close</button>
-                    <button onclick="Save()" id="save-btn" class="btn btn-sm  btn-success" data-dismiss="modal" >Save</button>
+                    <button onclick="Save()" id="save-btn" class="btn btn-sm  btn-success">Save</button>
                 </div>
             </div>
     </div>
